@@ -6,8 +6,8 @@ if __name__ == "__main__":
         key_dir = sys.argv[1]
         response_dir = sys.argv[2]
 
-    key_dir = "./data/gold.conll"
-    response_dir = "./data/pred.conll"
+    #key_dir = "./data/gold.conll"
+    #response_dir = "./data/pred.conll"
 
     key = extract_cluster_conll(key_dir)
     res = extract_cluster_conll(response_dir)
