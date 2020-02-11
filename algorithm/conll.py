@@ -14,10 +14,12 @@ def extract_cluster_conll(data_path):
                 clusters = defaultdict(list)
                 doc_name = line.split()[2]
                 in_docs = True
+                is_first = True
             elif (line == '\n'):
-                if in_docs == True:
+                if is_first == False and in_docs == True:
                     sentence_num += 1
             elif (line.find('#end document') == -1):
+                is_first = False
                 splited_line = line.strip().split()
                 gold_label = splited_line[-1]
                 gold_labels = gold_label.split('|')

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bedab992-c6d2-4045-959a-d3af2d572bb9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/conll_scorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/conll_scorer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gold.conll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pred.conll" beforeDir="false" />
-    </list>
+    <list default="true" id="bedab992-c6d2-4045-959a-d3af2d572bb9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/algorithm/scorer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -33,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conll_scorer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="342">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -46,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/algorithm/conll.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="874">
-              <caret line="46" column="48" lean-forward="true" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+              <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -109,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -228,16 +224,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580967171948</updated>
-      <workItem from="1580967174522" duration="7835000" />
+      <workItem from="1580967174522" duration="8764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7835000" />
+    <option name="totallyTimeSpent" value="8764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -250,7 +245,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38394794" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,7 +348,7 @@
     <entry file="file://$PROJECT_DIR$/algorithm/conll.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
-          <caret line="46" column="48" lean-forward="true" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -370,7 +365,7 @@
     <entry file="file://$PROJECT_DIR$/algorithm/scorer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -379,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conll_scorer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="342">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
