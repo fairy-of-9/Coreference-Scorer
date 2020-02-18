@@ -12,7 +12,7 @@ def extract_cluster_conll(data_path):
                 sentence_num = 0
                 stack = defaultdict(list)
                 clusters = defaultdict(list)
-                doc_name = line.split()[2]
+                doc_name = line[16:].strip()
                 in_docs = True
                 is_first = True
             elif (line == '\n'):
